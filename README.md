@@ -1,11 +1,11 @@
-About r-survival666
-===================
+About r-survival666-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-survival666-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=survival666
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-survival666-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions can be used for batch survival analysis, but not only for it. Most importantly, it can verify any P-value calculated according to the gene expression level and eliminate the influence of co-expression genes.
 

@@ -1,6 +1,5 @@
 {% set version = '0.5' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-survival666
@@ -13,8 +12,7 @@ source:
   sha256: 0178962ccab08892fa882fbe0f89637c9a6ba180b0f32afb85b6af4c0d297a87
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
